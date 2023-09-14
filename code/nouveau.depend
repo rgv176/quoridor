@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1639319328 source:c:\users\ragav\onedrive\bureau\nouveau\main.c
+	<sys/types.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdio.h>
+	"globals.h"
+	"quoridor.h"
+
+1639316084 c:\users\ragav\onedrive\bureau\nouveau\globals.h
+
+1639316090 c:\users\ragav\onedrive\bureau\nouveau\quoridor.h
+	"globals.h"
+
+1639316089 source:c:\users\ragav\onedrive\bureau\nouveau\quoridor.c
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<unistd.h>
+	"globals.h"
+	"quoridor.h"
+
